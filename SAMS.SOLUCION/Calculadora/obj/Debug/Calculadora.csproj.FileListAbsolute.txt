@@ -1,0 +1,18 @@
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\bin\Debug\Calculadora.exe
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\obj\Debug\Calculadora.exe
+c:\users\alex\documents\visual studio 2012\Projects\SAMS.Solucion\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ALEXIS\Desktop\SAMS.SOLUCION\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
